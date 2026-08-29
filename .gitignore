@@ -1,0 +1,8 @@
+node_modules/
+dist/
+medsync.db
+medsync.db-journal
+medsync.db-wal
+medsync.db-shm
+.env
+*.log
